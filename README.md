@@ -4,7 +4,9 @@ So far all it does it scale numbers
 ## bit_map(val, init_bit, scale_bit)
 
 val: value that is to be scaled
+
 init_bit: initial bit value that val is based on, or max of range that is to be scaled
+
 scale_bit: scaled bit value that output is to be based on, or max of range that is output
 
 Scales values of a range to another.
